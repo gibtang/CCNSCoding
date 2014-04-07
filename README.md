@@ -10,3 +10,5 @@ StringUtilities.h/cpp
 
 Go to /projects/HelloWorld/proj.ios_mac/ and open the xcodeproj file to run it. The project should run out of the box and the code that implements the CCNSCoding is in HelloWorldScene.h/cpp
 
+Hope you enjoy this
+
