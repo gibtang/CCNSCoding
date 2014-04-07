@@ -10,5 +10,8 @@ StringUtilities.h/cpp
 
 Go to /projects/HelloWorld/proj.ios_mac/ and open the xcodeproj file to run it. The project should run out of the box and the code that implements the CCNSCoding is in HelloWorldScene.h/cpp
 
+The database file will be saved in your simulator folder in the path that looks something like
+Users/gibtang/Library/Application Support/iPhone Simulator/7.1/Applications/45F61AAB-51C4-4929-AAA1-8747B21FC986/Documents/
+
 Hope you enjoy this
 
